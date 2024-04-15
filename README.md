@@ -1,0 +1,3 @@
+# Gicar 8.5.04 Protocol Reverse Engineering
+
+This repository continues the work in [magnusnordlander/lelit-bianca-protocol](https://github.com/magnusnordlander/lelit-bianca-protocol). It is a reverse engineering of the protocol for the CN10 bus used by (some) firmwares for the Gicar 8.5.04 espresso machine controller, specifically when it is used as an IO Expander, as is the case for at least the Lelit Bianca, and the Lelit Elizabeth.
